@@ -1,0 +1,5 @@
+# Softwares to install
+1. Groovy
+2. Java
+3. Git
+4. VSCode
